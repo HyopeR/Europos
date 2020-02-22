@@ -10,7 +10,7 @@
   "dependencies": {
     "install": "^0.13.0",
     "native-base": "^2.13.5",
-    "npm": "^6.11.2",
+    "npm": "^6.13.4",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-actionsheet": "^2.4.2",
